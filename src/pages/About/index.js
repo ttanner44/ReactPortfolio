@@ -14,7 +14,7 @@ function About() {
                             <div className="row">
                                 <div className="col-1"></div>
                                 <div className="col-10"></div>
-                                <div className="img"><img src="/images/Tanner Headshot.jpg" class=" img-fluid float-left imgmax" alt="Tanner Head Shot"></img>
+                                <div className="img"><img src="/images/Tanner Headshot.jpg" className=" img-fluid float-left imgmax" alt="Tanner Head Shot"></img>
                                     <p>Tim is an experienced information technology professional with over 30 years of service at some of the world’s top companies including Target, American Express, Hallmark and Polaris.   In addition, in over half of his career he worked as a consultant at firms like Accenture and Deloitte where he advised Fortune 500 organizations on how to utilize and deliver technology. </p>
                                     <p>The combination of consulting and corporate roles has provided both depth and breadth of experience and has fueled much of his success in recent times.</p>
                                     <p>Tim combines advanced leadership and disciplined execution to get business goals accomplished.  He builds great teams by maximizing the skills of those he leads and thoughtfully allocates tasks and responsibilities based upon an understanding for team member readiness.  The result is delivery of mission-critical business results.</p>
